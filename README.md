@@ -16,6 +16,10 @@ The code has different techniques of summarizing and visualizing the data.
 ### Prerequisites
 
 Required packages : dplyr, lattice, and pastecs.
+
+### Output of the project
+
+Please refer to the EDA_Insights.docx file. Various questions are answered based on the output of the analysis.
  
 ## Acknowledgments
 
